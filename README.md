@@ -1,5 +1,5 @@
 # Análise de um dataset de uma empresa de eletrônicos 
-Repositório usado para mostrar que vários problemas de um cientista de dados podem ser resolvidos sem algoritmos de machine learning, apenas com uma boa análise dos dados
+Repositório usado para mostrar que vários problemas de um cientista de dados podem ser resolvidos sem algoritmos de machine learning, apenas com uma boa análise e visualização dos dados
 
 ## Setup
 
@@ -20,6 +20,10 @@ Após limpar os dados, fica muito mais fácil e direto trabalhar com os mesmos. 
 - Qual seria o melhor horário para exibir anúncios, baseado na hora que as compras são efetivadas?
 - Quais produtos são mais vendidos em conjunto?
 - Qual é o produto mais vendido? Porquê esse produto é o mais vendido?
+
+##No Microsoft Power BI
+
+Também foi necessário fazer o cleaning dos dados, mas com a ferramenta de BI a tarefa fica mais simples, apenas selecionando o que deseja no Power Query e aplicando. A vantagem de usar essa aplicação é que todas as tabelas são dinâmicas, ou seja, ao selecionar um dado geral por uma coluna específica, ele muda todas as rsepostas do request e retorna automaticamente o dado pedido. Também fiz uma análise pelo mapa, para mostrar visualmente como está funcionando a distribuição por cidade.
 
 Alguns links e materiais que usei como auxílio/motivação:
 
